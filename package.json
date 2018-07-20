@@ -1,0 +1,27 @@
+{
+  "name": "express-camelcase-response-keys",
+  "version": "1.0.0",
+  "description": "Express middleware for converting response json to camelCase",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/stianlik/express-camelcase-response-keys.git"
+  },
+  "keywords": [
+    "express",
+    "camelcase",
+    "response"
+  ],
+  "author": "Stian Liknes <stianlik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stianlik/express-camelcase-response-keys/issues"
+  },
+  "homepage": "https://github.com/stianlik/express-camelcase-response-keys#readme",
+  "dependencies": {
+    "camelcase-keys": "^4.2.0"
+  }
+}
