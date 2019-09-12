@@ -1,6 +1,6 @@
 {
   "name": "express-camelcase-response-keys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Express middleware for converting response json to camelCase",
   "main": "index.js",
   "scripts": {
